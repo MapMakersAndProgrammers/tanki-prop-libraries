@@ -1,0 +1,1 @@
+{"groups":[{"name":"default","props":[{"mesh":{"file":"hang_1.3ds","lods":[],"textures":[]},"name":"Hangar 1","sprite":null},{"mesh":{"file":"hang_2.3ds","lods":[],"textures":[]},"name":"Hangar 2","sprite":null},{"mesh":{"file":"hang_3.3ds","lods":[],"textures":[]},"name":"Hangar 3","sprite":null}]}],"name":"Hangars"}
