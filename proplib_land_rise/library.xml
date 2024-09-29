@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Land Rise">
+    <prop-group name="default">
+        <prop name="RsGr1">
+            <mesh file="rise_gr1.3ds">
+                <texture name="Rg1 1" diffuse-map="rise_gr1.jpg"/>
+                <texture name="Rg1 2" diffuse-map="rise_gr2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="RsGr2">
+            <mesh file="rise_gr2.3ds">
+                <texture name="Rg2 1" diffuse-map="rise_gr3.jpg"/>
+                <texture name="Rg2 2" diffuse-map="rise_gr4.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Line">
+            <mesh file="line.3ds"/>
+        </prop>
+        <prop name="Land05">
+            <mesh file="land05.3ds"/>
+        </prop>
+        <prop name="Land10">
+            <mesh file="land22.3ds"/>
+        </prop>
+        <prop name="Land11">
+            <mesh file="land33.3ds"/>
+        </prop>
+        <prop name="crater1">
+            <mesh file="crater.3ds"/>
+        </prop>
+    </prop-group>
+</library>

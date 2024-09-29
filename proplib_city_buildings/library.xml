@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="City Buildings">
+    <prop-group name="default">
+		<prop name="SmHouse4">
+			<mesh  file="smHouse4.3ds"/>		
+		</prop>
+        <prop name="SmHouse5">
+            <mesh file="smhouse5.3ds"/>
+        </prop>
+        <prop name="Gas Station">
+            <mesh file="gasoline.3ds"/>
+        </prop>
+    </prop-group>
+</library>

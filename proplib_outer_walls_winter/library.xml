@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Outer Walls Winter">
+    <prop-group name="default">
+        <prop name="Outer Wall 1">
+            <mesh file="ow_1.3ds"/>
+        </prop>
+        <prop name="Outer Wall 2">
+            <mesh file="ow_2.3ds">
+                <texture name="Ow2 1" diffuse-map="ow_2.jpg"/>
+                <texture name="Ow2 2" diffuse-map="ow_21.jpg"/>
+                <texture name="Ow2 3" diffuse-map="ow_22.jpg"/>
+                <texture name="Ow2 4" diffuse-map="ow_23.jpg"/>
+                <texture name="Ow2 5" diffuse-map="ow_24.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="WTile 1">
+            <mesh file="wtile_1.3ds">
+                <texture name="WTile Big 1" diffuse-map="wtile_b.jpg"/>
+                <texture name="WTile Big 2" diffuse-map="wtile_b1.jpg"/>
+                <texture name="WTile Big 3" diffuse-map="wtile_b2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="WTile 2">
+            <mesh file="wtile_2.3ds">
+                <texture name="WTile Small 1" diffuse-map="wtile_s.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="WTile 3">
+            <mesh file="wtile_3.3ds">
+                <texture name="WTile Long 1" diffuse-map="wtile_b.jpg"/>
+                <texture name="WTile Long 2" diffuse-map="wtile_b1.jpg"/>
+                <texture name="WTile Long 3" diffuse-map="wtile_b2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="WTile 4">
+            <mesh file="wtile_4.3ds">
+                <texture name="WTile Small 1" diffuse-map="wtile_s.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Outer Wall Inner Angle">
+            <mesh file="ow_ai.3ds"/>
+        </prop>
+        <prop name="Outer Wall Outer Angle">
+            <mesh file="ow_ao.3ds"/>
+        </prop>
+        <prop name="Outer Wall Tower">
+            <mesh file="ow_t.3ds"/>
+        </prop>
+        <prop name="Tunnel 1">
+            <mesh file="tunnel_1.3ds"/>
+        </prop>
+        <prop name="Tunnel 2">
+            <mesh file="tunnel_2.3ds"/>
+        </prop>
+    </prop-group>
+</library>

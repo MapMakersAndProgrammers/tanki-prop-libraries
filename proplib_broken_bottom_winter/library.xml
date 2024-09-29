@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Broken Bottom Winter">
+    <prop-group name="default">
+        <prop name="rise1">
+            <mesh file="hs_rise1.3ds"/>
+        </prop>
+        <prop name="rise2">
+            <mesh file="hs_rise2.3ds"/>
+        </prop>
+        <prop name="rise3">
+            <mesh file="hs_rise3.3ds"/>
+        </prop>
+        <prop name="rise4">
+            <mesh file="hs_rise4.3ds"/>
+        </prop>
+        <prop name="rise5">
+            <mesh file="hs_rise5.3ds"/>
+        </prop>
+        <prop name="brid2">
+            <mesh file="hs_brid2.3ds"/>
+        </prop>
+        <prop name="brid3">
+            <mesh file="hs_brid3.3ds"/>
+        </prop>
+        <prop name="brid1">
+            <mesh file="hs_brid1.3ds"/>
+        </prop>
+    </prop-group>
+</library>

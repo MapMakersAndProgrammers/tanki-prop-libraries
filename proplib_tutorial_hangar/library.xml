@@ -1,0 +1,40 @@
+<library name="Tutorial Hangar">
+	<prop-group name="Hangar">
+		<prop name="Hangar In">
+			<mesh file="hang_in.3ds"/>
+		</prop>
+		<prop name="Hangar Out">
+			<mesh file="hang_out.3ds"/>
+		</prop>
+		<prop name="Door">
+			<mesh file="door.3ds"/>
+		</prop>
+		<prop name="No Do">
+			<mesh file="nodo.3ds"/>
+		</prop> 
+		<prop name="Computer">
+			<mesh file="computer.3ds"/>
+		</prop>
+		<prop name="Tool Desk">
+			<mesh file="tooldesk.3ds"/>
+		</prop>
+ 		<prop name="Generator">
+			<mesh file="gener.3ds"/>
+		</prop>
+		<prop name="Barrels 1">
+			<mesh file="barr_1.3ds"/>
+		</prop>
+		<prop name="Barrels 2">
+			<mesh file="barr_2.3ds"/>
+		</prop>
+		<prop name="Ammo">
+			<mesh file="ammo.3ds"/>
+		</prop>
+		<prop name="Top Perils">
+			<mesh file="topperil.3ds"/>
+		</prop>
+		<prop name="Wires">
+			<mesh file="wire_1.3ds"/>
+		</prop>
+	</prop-group>
+</library>

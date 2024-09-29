@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="NuBu 12">
+    <prop-group name="default">
+        <prop name="NuBu 12">
+            <mesh file="nubu_12.3ds"/>
+        </prop>
+    </prop-group>
+</library>

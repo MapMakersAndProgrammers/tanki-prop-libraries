@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="City Builds Winter">
+    <prop-group name="default">
+        <prop name="Fabr Tower">
+            <mesh file="fab_tow.3ds"/>
+        </prop>
+        <prop name="Broken Fabr Tower">
+            <mesh file="fab_tow2.3ds"/>
+        </prop>
+    </prop-group>
+</library>

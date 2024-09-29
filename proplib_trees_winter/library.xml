@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Trees Winter">
+    <prop-group name="default">
+        <prop name="Tree1">
+            <mesh file="tree01.3ds"/>
+        </prop>
+        <prop name="Tree2">
+            <mesh file="tree02.3ds"/>
+        </prop>
+    </prop-group>
+</library>

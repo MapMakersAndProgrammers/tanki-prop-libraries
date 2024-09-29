@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Stuffs Winter">
+    <prop-group name="default">
+        <prop name="El_post">
+            <mesh file="post.3ds"/>
+        </prop>
+        <prop name="Blocks">
+            <mesh file="blocks.3ds"/>
+        </prop>
+        <prop name="Broktank">
+            <mesh file="brok_tank.3ds"/>
+        </prop>
+        <prop name="Tube 1">
+            <mesh file="tube_1.3ds"/>
+        </prop>
+        <prop name="Tube 2">
+            <mesh file="tube_2.3ds"/>
+        </prop>
+        <prop name="Tube 3">
+            <mesh file="tube_3.3ds"/>
+        </prop>
+        <prop name="Tube 4">
+            <mesh file="tube_4.3ds"/>
+        </prop>
+        <prop name="Chest01">
+            <mesh file="chest01.3ds"/>
+        </prop>
+        <prop name="Chest02">
+            <mesh file="chest02.3ds"/>
+        </prop>
+        <prop name="Chest03">
+            <mesh file="chest03.3ds"/>
+        </prop>
+        <prop name="Chest04">
+            <mesh file="chest04.3ds"/>
+        </prop>
+        <prop name="Chest05">
+            <mesh file="chest05.3ds"/>
+        </prop>
+        <prop name="Chest06">
+            <mesh file="chest06.3ds"/>
+        </prop>
+    </prop-group>
+</library>

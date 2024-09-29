@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Cliffs">
+    <prop-group name="default">
+        <prop name="Cliff 0">
+            <mesh file="cliff_0.3ds"/>
+        </prop>
+        <prop name="Cliff 1">
+            <mesh file="cliff_1.3ds"/>
+        </prop>
+        <prop name="Cliff 2">
+            <mesh file="cliff_2.3ds"/>
+        </prop>
+        <prop name="Cliff 4">
+            <mesh file="cliff_4.3ds"/>
+        </prop>
+        <prop name="Cliff Corner">
+            <mesh file="cliff_cor.3ds"/>
+        </prop>
+        <prop name="Cliff Inner Corner">
+            <mesh file="cliff_c2.3ds"/>
+        </prop>
+        <prop name="Cliff Rise Inner">
+            <mesh file="cliff_ri.3ds"/>
+        </prop>
+        <prop name="Cliff Rise">
+            <mesh file="cliff_r2.3ds"/>
+        </prop>
+    </prop-group>
+</library>

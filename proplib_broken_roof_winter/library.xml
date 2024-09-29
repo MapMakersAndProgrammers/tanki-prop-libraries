@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Broken Roof Winter">
+    <prop-group name="default">
+        <prop name="broken roof">
+            <mesh file="brk_roof.3ds">
+                <texture name="Brk_roof 2" diffuse-map="bk_roof.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="broken roof01">
+            <mesh file="bk_roof1.3ds">
+                <texture name="Brk_roof1 2" diffuse-map="bk_roof.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="broken roof02">
+            <mesh file="bk_roof2.3ds">
+                <texture name="Brk_roof2 2" diffuse-map="bk_roof.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="roof part">
+            <mesh file="hs_roof.3ds"/>
+        </prop>
+        <prop name="roof part1">
+            <mesh file="hs_roof1.3ds"/>
+        </prop>
+        <prop name="roof part2">
+            <mesh file="hs_roof2.3ds"/>
+        </prop>
+        <prop name="roof cen">
+            <mesh file="h_roofc.3ds"/>
+        </prop>
+        <prop name="roof2x2">
+            <mesh file="roofc2x2.3ds"/>
+        </prop>
+    </prop-group>
+</library>

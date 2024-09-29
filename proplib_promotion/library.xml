@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Promotion">
+    <prop-group name="default">
+        <prop name="Billboard">
+            <mesh file="bilboard.3ds">
+                <texture name="default" diffuse-map="shit_0.jpg"/>
+            </mesh>
+        </prop>
+    </prop-group>
+</library>

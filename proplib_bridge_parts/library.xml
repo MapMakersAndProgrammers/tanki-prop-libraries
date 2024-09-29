@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Bridge Parts">
+    <prop-group name="default">
+        <prop name="Bridge rise">
+            <mesh file="bridge_1.3ds"/>
+        </prop>
+        <prop name="Bridge rise pro">
+            <mesh file="bridge_1_1.3ds"/>
+        </prop>
+        <prop name="Bridge Str">
+            <mesh file="bridge_2.3ds"/>
+        </prop>
+        <prop name="Bridge Str Col">
+            <mesh file="bridge_3.3ds"/>
+        </prop>
+        <prop name="Bridge Column">
+            <mesh file="bridge_4.3ds"/>
+        </prop>
+        <prop name="Bridge Base">
+            <mesh file="bridge_5.3ds"/>
+        </prop>
+        <prop name="Bridge 3-way">
+            <mesh file="bridge_8.3ds"/>
+        </prop>
+    </prop-group>
+</library>

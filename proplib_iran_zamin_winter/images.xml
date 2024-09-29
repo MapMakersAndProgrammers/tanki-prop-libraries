@@ -1,0 +1,67 @@
+<images>
+	<image name='bush1.png' new-name='bush1.jpg' alpha='bush1.gif'/>
+	<image name='bush2.png' new-name='bush2.jpg' alpha='bush2.gif'/>
+	<image name='fade.jpg' new-name='fade.jpg'/>
+	<image name='fade_turn.jpg' new-name='fade_turn.jpg'/>
+	<image name='grass.jpg' new-name='grass.jpg'/>
+	<image name='grass_1.jpg' new-name='grass_1.jpg'/>
+	<image name='grass_2.jpg' new-name='grass_2.jpg'/>
+	<image name='grass_3.jpg' new-name='grass_3.jpg'/>
+	<image name='half.jpg' new-name='half.jpg'/>
+	<image name='half_s.jpg' new-name='half_s.jpg'/>
+	<image name='halfx1.jpg' new-name='halfx1.jpg'/>
+	<image name='halfx1_s.jpg' new-name='halfx1_s.jpg'/>
+	<image name='kahk_semi_snow_rotate.jpg' new-name='kahk_semi_snow_rotate.jpg'/>
+	<image name='kahk_semi_snow_rotate2.jpg' new-name='kahk_semi_snow_rotate2.jpg'/>
+	<image name='kahk_semi_snow_rotate3.jpg' new-name='kahk_semi_snow_rotate3.jpg'/>
+	<image name='kahk_snow_halfx1.jpg' new-name='kahk_snow_halfx1.jpg'/>
+	<image name='kahk_snow_rotate.jpg' new-name='kahk_snow_rotate.jpg'/>
+	<image name='khak_semi_snow.jpg' new-name='khak_semi_snow.jpg'/>
+	<image name='khak1x1.jpg' new-name='khak1x1.jpg'/>
+	<image name='khak2x2.jpg' new-name='khak2x2.jpg'/>
+	<image name='parche.jpg' new-name='parche.jpg'/>
+	<image name='path.jpg' new-name='path.jpg'/>
+	<image name='path_1.jpg' new-name='path_1.jpg'/>
+	<image name='path_2.jpg' new-name='path_2.jpg'/>
+	<image name='path_3.jpg' new-name='path_3.jpg'/>
+	<image name='path_4.jpg' new-name='path_4.jpg'/>
+	<image name='path_5.jpg' new-name='path_5.jpg'/>
+	<image name='path_6.jpg' new-name='path_6.jpg'/>
+	<image name='path_7.jpg' new-name='path_7.jpg'/>
+	<image name='path_8.jpg' new-name='path_8.jpg'/>
+	<image name='path_8_s.jpg' new-name='path_8_s.jpg'/>
+	<image name='path_8_s2.jpg' new-name='path_8_s2.jpg'/>
+	<image name='path_9.jpg' new-name='path_9.jpg'/>
+	<image name='path_9_s.jpg' new-name='path_9_s.jpg'/>
+	<image name='path_9_s2.jpg' new-name='path_9_s2.jpg'/>
+	<image name='path_10.jpg' new-name='path_10.jpg'/>
+	<image name='rabetw.jpg' new-name='rabetw.jpg'/>
+	<image name='snowman.png' new-name='snowman.jpg' alpha='snowman.gif'/>
+	<image name='straw_1x1.jpg' new-name='straw_1x1.jpg'/>
+	<image name='straw_2.jpg' new-name='straw_2.jpg'/>
+	<image name='straw_half.jpg' new-name='straw_half.jpg'/>
+	<image name='straw_halfx1.jpg' new-name='straw_halfx1.jpg'/>
+	<image name='wood1.png' new-name='wood1.jpg' alpha='wood1.gif'/>
+	<image name='yonjewe.jpg' new-name='yonjewe.jpg'/>
+	<image name='crack_1.jpg' new-name='crack_1.jpg'/>
+	<image name='crack_2.jpg' new-name='crack_2.jpg'/>
+	<image name='crack_3.jpg' new-name='crack_3.jpg'/>
+	<image name='crack_4.jpg' new-name='crack_4.jpg'/>
+	<image name='crack_5.jpg' new-name='crack_5.jpg'/>
+	<image name='crack_6.jpg' new-name='crack_6.jpg'/>
+	<image name='crack_7.jpg' new-name='crack_7.jpg'/>
+	<image name='crack_8.jpg' new-name='crack_8.jpg'/>
+	<image name='crack_9.jpg' new-name='crack_9.jpg'/>
+	<image name='fade_distant.jpg' new-name='fade_distant.jpg'/>
+	<image name='grass_path_1.jpg' new-name='grass_path_1.jpg'/>
+	<image name='grass_path_2.jpg' new-name='grass_path_2.jpg'/>
+	<image name='grass_path_3.jpg' new-name='grass_path_3.jpg'/>
+	<image name='khak1x2.jpg' new-name='khak1x2.jpg'/>
+	<image name='lale.png' new-name='lale.jpg' alpha='lale.gif'/>
+	<image name='lale2.png' new-name='lale2.jpg' alpha='lale2.gif'/>
+	<image name='lale3.png' new-name='lale3.jpg' alpha='lale3.gif'/>
+	<image name='lale4.png' new-name='lale4.jpg' alpha='lale4.gif'/>
+	<image name='lale5.png' new-name='lale5.jpg' alpha='lale5.gif'/>
+	<image name='path_full.jpg' new-name='path_full.jpg'/>
+	<image name='nakhl.jpg' new-name='nakhl.jpg'/>
+</images>

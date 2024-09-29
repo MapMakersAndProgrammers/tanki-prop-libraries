@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Waffle Fence Winter">
+    <prop-group name="default">
+        <prop name="Wall 1">
+            <mesh file="wall_1.3ds"/>
+        </prop>
+        <prop name="Wall 2">
+            <mesh file="wall_2.3ds"/>
+        </prop>
+        <prop name="Wall 3">
+            <mesh file="wall_3.3ds"/>
+        </prop>
+        <prop name="wallcor">
+            <mesh file="wallcorn.3ds">
+				<texture name="corner" diffuse-map="wallcorn.jpg"/>
+				<texture name="event" diffuse-map="wf_event.jpg"/>
+			</mesh>
+        </prop>
+        <prop name="Wgate">
+            <mesh file="wgates.3ds"/>
+        </prop>
+    </prop-group>
+</library>

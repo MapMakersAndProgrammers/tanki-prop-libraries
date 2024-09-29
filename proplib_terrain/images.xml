@@ -1,0 +1,40 @@
+<images>
+	<image name='asph1.jpg' new-name='asph1.jpg'/>
+	<image name='bg_rock.jpg' new-name='bg_rock.jpg'/>
+	<image name='bush1.png' new-name='bush1.jpg' alpha='bush1.gif'/>
+	<image name='bush2.png' new-name='bush2.jpg' alpha='bush2.gif'/>
+	<image name='concrete_1.jpg' new-name='concrete_1.jpg'/>
+	<image name='concrete_2.jpg' new-name='concrete_2.jpg'/>
+	<image name='concrete_3.jpg' new-name='concrete_3.jpg'/>
+	<image name='concrete_4.jpg' new-name='concrete_4.jpg'/>
+	<image name='concrete_5.jpg' new-name='concrete_5.jpg'/>
+	<image name='concrete_6.jpg' new-name='concrete_6.jpg'/>
+	<image name='concrete_7.jpg' new-name='concrete_7.jpg'/>
+	<image name='concrete_8.jpg' new-name='concrete_8.jpg'/>
+	<image name='concrete_9.jpg' new-name='concrete_9.jpg'/>
+	<image name='concrete2x1_road.jpg' new-name='concrete2x1_road.jpg'/>
+	<image name='concrete2x1_zebra.jpg' new-name='concrete2x1_zebra.jpg'/>
+	<image name='concrete2x2_road_2.jpg' new-name='concrete2x2_road_2.jpg'/>
+	<image name='concrete2x2_road_3.jpg' new-name='concrete2x2_road_3.jpg'/>
+	<image name='concrete2x2_road_4.jpg' new-name='concrete2x2_road_4.jpg'/>
+	<image name='corn.jpg' new-name='corn.jpg'/>
+	<image name='ground_b1.jpg' new-name='ground_b1.jpg'/>
+	<image name='latt2sd.png' new-name='latt2sd.jpg' alpha='latt2sd.gif'/>
+	<image name='rise_r1.jpg' new-name='rise_r1.jpg'/>
+	<image name='rise_r2.jpg' new-name='rise_r2.jpg'/>
+	<image name='rise_u3.jpg' new-name='rise_u3.jpg'/>
+	<image name='roof.jpg' new-name='roof.jpg'/>
+	<image name='sm_rck1.jpg' new-name='sm_rck1.jpg'/>
+	<image name='steel_1.jpg' new-name='steel_1.jpg'/>
+	<image name='steel_2.jpg' new-name='steel_2.jpg'/>
+	<image name='steel_3.jpg' new-name='steel_3.jpg'/>
+	<image name='steel_4.jpg' new-name='steel_4.jpg'/>
+	<image name='steel_5.jpg' new-name='steel_5.jpg'/>
+	<image name='steel_6.jpg' new-name='steel_6.jpg'/>
+	<image name='steel33.jpg' new-name='steel33.jpg'/>
+	<image name='tile2sd.jpg' new-name='tile2sd.jpg'/>
+	<image name='tile2sd_v2.jpg' new-name='tile2sd_v2.jpg'/>
+	<image name='tile2sd_v3.jpg' new-name='tile2sd_v3.jpg'/>
+	<image name='wood1.png' new-name='wood1.jpg' alpha='wood1.gif'/>
+	<image name='latt2sd.jpg' new-name='latt2sd.jpg'/>
+</images>

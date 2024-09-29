@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Fachwerk House 2">
+    <prop-group name="default">
+        <prop name="Fahwerk House 2">
+            <mesh file="fahwerk2.3ds"/>
+        </prop>
+    </prop-group>
+</library>

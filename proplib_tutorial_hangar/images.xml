@@ -1,0 +1,6 @@
+<images>
+	<image name='hangar1.jpg' new-name='hangar1.jpg'/>
+	<image name='hangar_b.jpg' new-name='hangar_b.jpg'/>
+	<image name='hang_out.jpg' new-name='hang_out.jpg'/>
+	<image name='hangar_w.png' new-name='hangar_w.jpg' alpha='hangar_w.gif'/>
+</images>

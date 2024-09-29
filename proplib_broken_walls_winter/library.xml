@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Broken Walls Winter">
+    <prop-group name="default">
+        <prop name="Hs_part09">
+            <mesh file="hs_part9.3ds"/>
+        </prop>
+        <prop name="Hs_part20">
+            <mesh file="hs_par20.3ds">
+                <texture name="Hspart20 1" diffuse-map="hs_wl5.jpg"/>
+                <texture name="Hspart20 2" diffuse-map="hs_wl51.jpg"/>
+                <texture name="Hspart20 3" diffuse-map="hs_wl52.jpg"/>
+                <texture name="Hspart20 4" diffuse-map="hs_wl53.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Hs_part08">
+            <mesh file="hs_part8.3ds"/>
+        </prop>
+        <prop name="Hs_part07">
+            <mesh file="hs_part7.3ds"/>
+        </prop>
+        <prop name="Hs_part06">
+            <mesh file="hs_part6.3ds"/>
+        </prop>
+        <prop name="Hs_part05">
+            <mesh file="hs_part5.3ds">
+                <texture name="Hspart5 1" diffuse-map="hs_wl5.jpg"/>
+                <texture name="Hspart5 2" diffuse-map="hs_wl51.jpg"/>
+                <texture name="Hspart5 3" diffuse-map="hs_wl52.jpg"/>
+                <texture name="Hspart5 4" diffuse-map="hs_wl53.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Hs_part04">
+            <mesh file="hs_part4.3ds"/>
+        </prop>
+        <prop name="Hs_part03">
+            <mesh file="hs_part3.3ds"/>
+        </prop>
+        <prop name="Hs_part02">
+            <mesh file="hs_part2.3ds"/>
+        </prop>
+        <prop name="Hs_part012">
+            <mesh file="hs_par12.3ds"/>
+        </prop>
+        <prop name="Hs_corn1">
+            <mesh file="hs_corn1.3ds"/>
+        </prop>
+        <prop name="Hs_corn2">
+            <mesh file="hs_corn2.3ds"/>
+        </prop>
+        <prop name="Hs_part010">
+            <mesh file="hs_par10.3ds"/>
+        </prop>
+        <prop name="Hs_part01">
+            <mesh file="hs_part1.3ds"/>
+        </prop>
+        <prop name="Tube01">
+            <mesh file="hs_tube1.3ds"/>
+        </prop>
+        <prop name="Tube02">
+            <mesh file="hs_tube2.3ds"/>
+        </prop>
+        <prop name="Tube3">
+            <mesh file="h_tube3.3ds"/>
+        </prop>
+        <prop name="big1">
+            <mesh file="partbig1.3ds"/>
+        </prop>
+        <prop name="big2">
+            <mesh file="partbig2.3ds"/>
+        </prop>
+    </prop-group>
+</library>

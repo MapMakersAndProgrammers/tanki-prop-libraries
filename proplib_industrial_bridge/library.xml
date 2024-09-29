@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Industrial Bridge">
+    <prop-group name="default">
+        <prop name="Bridge 1">
+            <mesh file="brid_1.3ds"/>
+        </prop>
+		<prop name="Bridge 1 left">
+            <mesh file="brid_1_1.3ds"/>
+        </prop>
+		<prop name="Bridge 1 both">
+            <mesh file="brid_1_2.3ds"/>
+        </prop>
+		<prop name="Bridge 1 right">
+            <mesh file="brid_1_3.3ds"/>
+        </prop>
+        <prop name="Bridge 2">
+            <mesh file="brid_2.3ds">
+                <texture name="Bridge 1" diffuse-map="brid_2.jpg"/>
+                <texture name="Bridge 2" diffuse-map="brid_21.jpg"/>
+                <texture name="Bridge 3" diffuse-map="brid_22.jpg"/>
+                <texture name="Bridge 4" diffuse-map="brid_23.jpg"/>
+                <texture name="Bridge 5" diffuse-map="brid_24.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Bridge 3">
+            <mesh file="brid_3.3ds"/>
+        </prop>
+        <prop name="Bridge 4">
+            <mesh file="brid_4.3ds"/>
+        </prop>
+        <prop name="Bridge 5">
+            <mesh file="brid_5.3ds"/>
+        </prop>
+        <prop name="Bridge 6">
+            <mesh file="brid_6.3ds">
+                <texture name="Bridge6 1" diffuse-map="brid_6.jpg"/>
+                <texture name="Bridge6 2" diffuse-map="brid_61.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Bridge 7">
+            <mesh file="brid_7.3ds">
+                <texture name="Bridge6 1" diffuse-map="brid_7.jpg"/>
+                <texture name="Bridge6 2" diffuse-map="brid_71.jpg"/>
+                <texture name="Bridge6 2" diffuse-map="brid_72.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="St_bridge 1">
+            <mesh file="st_br01.3ds"/>
+        </prop>
+        <prop name="St_bridge 2">
+            <mesh file="st_br02.3ds"/>
+        </prop>
+    </prop-group>
+</library>

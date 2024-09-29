@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Slopes Rises">
+    <prop-group name="default">
+        <prop name="Slope 1">
+            <mesh file="slope_1.3ds"/>
+        </prop>
+        <prop name="Slope 2">
+            <mesh file="slope_2.3ds">
+                <texture name="Slope 2" diffuse-map="slope_2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Rise 2">
+            <mesh file="rise_2.3ds"/>
+        </prop>
+        <prop name="Rise 3">
+            <mesh file="rise_3.3ds"/>
+        </prop>
+        <prop name="Rise 4">
+            <mesh file="rise_4.3ds"/>
+        </prop>
+        <prop name="Rise 5">
+            <mesh file="rise_5.3ds"/>
+        </prop>
+    </prop-group>
+</library>

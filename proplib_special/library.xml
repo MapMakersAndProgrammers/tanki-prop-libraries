@@ -1,0 +1,26 @@
+<library name="Special">
+	<prop-group name="default">
+		<prop name="Map1">
+            <mesh file="tile_01.3ds">
+                <texture name="Map1" diffuse-map="beton_2.jpg"/>
+            </mesh>
+        </prop>
+		<prop name="Map3">
+            <mesh file="nubu_9.3ds">
+				<texture name="Map3" diffuse-map="nubu_9.jpg"/>
+			</mesh>
+        </prop>
+		<prop name="Map5">
+            <mesh file="blocks.3ds">
+				<texture name="Map5" diffuse-map="blocks.jpg"/>
+			</mesh>
+        </prop>
+		<prop name="Map467">
+            <mesh file="ow_2.3ds">
+                <texture name="Map4" diffuse-map="ow_2.jpg"/>
+                <texture name="Map6" diffuse-map="ow_21.jpg"/>
+                <texture name="Map7" diffuse-map="ow_22.jpg"/>
+            </mesh>
+        </prop>
+	</prop-group>
+</library>

@@ -1,0 +1,5 @@
+<images>
+	<image name='elmvv512.jpg' new-name='elmvv512.jpg'/>
+	<image name='fence512.jpg' new-name='fence512.jpg'/>
+	<image name='minen.png' new-name='minen.jpg' alpha='minen.gif'/>
+</images>

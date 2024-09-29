@@ -1,0 +1,5 @@
+<images>
+	<image name='bush1.png' new-name='bush1.jpg' alpha='bush1.gif'/>
+	<image name='bush2.png' new-name='bush2.jpg' alpha='bush2.gif'/>
+	<image name='wood1.png' new-name='wood1.jpg' alpha='wood1.gif'/>
+</images>

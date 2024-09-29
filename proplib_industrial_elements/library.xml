@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Industrial Elements">
+    <prop-group name="default">
+        <prop name="Container">
+            <mesh file="contain.3ds">
+                <texture name="Container 1" diffuse-map="contain.jpg"/>
+                <texture name="Container 2" diffuse-map="contain2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Watch Tower">
+            <mesh file="watch_to.3ds"/>
+        </prop>
+        <prop name="Steel tower">
+            <mesh file="tower.3ds">
+				<texture name="Steel tower 1" diffuse-map="tower.jpg"/>
+			</mesh>
+        </prop>
+    </prop-group>
+</library>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Roadblock">
+    <prop-group name="default">
+		<prop name="Minen">
+            <sprite file="minen.png" origin-y="1.02" scale="2.5"/>
+        </prop>
+		<prop name="Parapet">
+				<mesh  file="border.3ds"/>
+		</prop>
+		<prop name="fence1">
+				<mesh  file="wallbig.3ds"/>
+		</prop>
+		<prop name="fence2">
+				<mesh  file="wallbn.3ds"/>
+		</prop>
+		<prop name="fence3">
+				<mesh  file="wallbs.3ds"/>
+		</prop>
+		<prop name="fence4">
+				<mesh  file="wallcon.3ds"/>
+		</prop>
+		<prop name="fence5">
+				<mesh  file="wallend.3ds"/>
+		</prop>
+		<prop name="fence6">
+				<mesh  file="walllit.3ds"/>
+		</prop>
+    </prop-group>
+</library>

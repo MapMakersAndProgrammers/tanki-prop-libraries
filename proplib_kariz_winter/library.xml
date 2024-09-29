@@ -1,0 +1,39 @@
+<library name="kariz Winter">	
+	<prop-group name="kariz">
+		<prop name="kariz">
+			<mesh file="kariz.3DS">	
+				<texture name="roshan" diffuse-map="kariz.jpg" />
+			</mesh>
+		</prop>
+		<prop name="saraziri">
+			<mesh file="saraziri.3DS">
+				<texture name="roshan" diffuse-map="kariz.jpg" />
+			</mesh>
+		</prop>
+		<prop name="cheragh">
+			<mesh file="cheragh.3DS"/>	
+		</prop>
+		<prop name="turn">
+			<mesh file="turn.3DS"/>	
+		</prop>
+		<prop name="turn3">
+			<mesh file="turn3.3DS"/>	
+		</prop>
+		<prop name="abrah">
+			<mesh file="abrah.3DS"/>	
+		</prop>
+		<prop name="charchub">
+			<mesh file="charchub.3DS"/>	
+		</prop>
+		<prop name="dar">
+			<mesh file="dar.3DS">
+				<texture name="East" diffuse-map="dar.jpg" />				
+			</mesh>
+		</prop>
+		<prop name="dargah">
+			<mesh file="dargah.3DS">
+					<texture name="East" diffuse-map="dargah.jpg" />				
+			</mesh>
+		</prop>
+	</prop-group>
+</library>

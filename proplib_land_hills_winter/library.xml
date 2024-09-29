@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Land Hills Winter">
+    <prop-group name="default">
+        <prop name="Land01">
+            <mesh file="land01.3ds"/>
+        </prop>
+        <prop name="Land02">
+            <mesh file="land02.3ds"/>
+        </prop>
+        <prop name="Land03">
+            <mesh file="land03.3ds"/>
+        </prop>
+        <prop name="Land04">
+            <mesh file="land04.3ds"/>
+        </prop>
+        <prop name="Land06">
+            <mesh file="land06.3ds"/>
+        </prop>
+        <prop name="Land07">
+            <mesh file="land07.3ds"/>
+        </prop>
+        <prop name="Land08">
+            <mesh file="land08.3ds"/>
+        </prop>
+        <prop name="Land09">
+            <mesh file="land09.3ds"/>
+        </prop>
+    </prop-group>
+</library>

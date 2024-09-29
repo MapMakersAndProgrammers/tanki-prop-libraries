@@ -1,0 +1,17 @@
+<images>
+	<image name='vilhou4.jpg' new-name='vilhou4.jpg'/>
+	<image name='dark_gravel.jpg' new-name='dark_gravel.jpg'/>
+	<image name='ghost.png' new-name='ghost.jpg' alpha='ghost.gif'/>
+	<image name='grass3_2_1.jpg' new-name='grass3_2_1.jpg'/>
+	<image name='gravest.jpg' new-name='gravest.jpg'/>
+	<image name='pumpkin.jpg' new-name='pumpkin.jpg'/>
+	<image name='tree01.jpg' new-name='tree01.jpg'/>
+	<image name='tree02.jpg' new-name='tree02.jpg'/>
+	<image name='trees1.png' new-name='trees1.jpg' alpha='trees1.gif'/>
+	<image name='trees2.png' new-name='trees2.jpg' alpha='trees2.gif'/>
+	<image name='trees3.png' new-name='trees3.jpg' alpha='trees3.gif'/>
+	<image name='trees4.png' new-name='trees4.jpg' alpha='trees4.gif'/>
+	<image name='vilhou1.jpg' new-name='vilhou1.jpg'/>
+	<image name='vilhou2.jpg' new-name='vilhou2.jpg'/>
+	<image name='vilhou3.jpg' new-name='vilhou3.jpg'/>
+</images>

@@ -1,0 +1,12 @@
+<images>
+	<image name='angwin1.jpg' new-name='angwin1.jpg'/>
+	<image name='ant1.png' new-name='ant1.jpg' alpha='ant1.gif'/>
+	<image name='cond1.jpg' new-name='cond1.jpg'/>
+	<image name='dot1_1.jpg' new-name='dot1_1.jpg'/>
+	<image name='dot2.jpg' new-name='dot2.jpg'/>
+	<image name='dot2_2.jpg' new-name='dot2_2.jpg'/>
+	<image name='dot2_3.jpg' new-name='dot2_3.jpg'/>
+	<image name='dot2_4.jpg' new-name='dot2_4.jpg'/>
+	<image name='dot2_5.jpg' new-name='dot2_5.jpg'/>
+	<image name='dot2_6.jpg' new-name='dot2_6.jpg'/>
+</images>

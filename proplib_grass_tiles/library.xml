@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Grass Tiles">
+    <prop-group name="default">
+        <prop name="grass&amp;dirt 1x1">
+            <mesh file="tile_01.3ds">
+                <texture name="Grass" diffuse-map="grass_1.jpg"/>
+                <texture name="Grass 2" diffuse-map="grass_2.jpg"/>
+                <texture name="Grass 3" diffuse-map="grass_3.jpg"/>
+                <texture name="Grass 4" diffuse-map="grass_4.jpg"/>
+                <texture name="Grass Railroad" diffuse-map="grass_railroad.jpg"/>
+                <texture name="Gravel" diffuse-map="gravel.jpg"/>
+                <texture name="Dark Gravel" diffuse-map="dark_gravel.jpg"/>
+                <texture name="GtD Transition 1" diffuse-map="dg_tr_1.jpg"/>
+                <texture name="GtD Transition 2" diffuse-map="dg_tr_2.jpg"/>
+                <texture name="GtD Transition 3" diffuse-map="dg_tr_3.jpg"/>
+                <texture name="GtD Transition 4" diffuse-map="dg_tr_4.jpg"/>
+                <texture name="GtD Corner 1" diffuse-map="dg_cor_1.jpg"/>
+                <texture name="GtD Corner 2" diffuse-map="dg_cor_2.jpg"/>
+                <texture name="GtD Corner 3" diffuse-map="dg_cor_3.jpg"/>
+                <texture name="GtD Corner 4" diffuse-map="dg_cor_4.jpg"/>
+                <texture name="GtD Inner 1" diffuse-map="dg_incor_1.jpg"/>
+                <texture name="GtD Inner 2" diffuse-map="dg_incor_2.jpg"/>
+                <texture name="DtD Transition 1" diffuse-map="dd_tr_1.jpg"/>
+                <texture name="DtD Transition 2" diffuse-map="dd_tr_2.jpg"/>
+                <texture name="DtD Transition 3" diffuse-map="dd_tr_3.jpg"/>
+                <texture name="DtD Transition 4" diffuse-map="dd_tr_4.jpg"/>
+                <texture name="DtD Corner 1" diffuse-map="dd_cor_1.jpg"/>
+                <texture name="DtD Corner 2" diffuse-map="dd_cor_2.jpg"/>
+                <texture name="DtD Corner 3" diffuse-map="dd_cor_3.jpg"/>
+                <texture name="DtD Corner 4" diffuse-map="dd_cor_4.jpg"/>
+                <texture name="DtD Inner 1" diffuse-map="dd_incor_1.jpg"/>
+                <texture name="DtD Inner 2" diffuse-map="dd_incor_2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Grass 2x1">
+            <mesh file="tile2_1.3ds">
+                <texture name="Grass 2x1 var1" diffuse-map="grass2_1_1.jpg"/>
+                <texture name="Grass 2x1 var2" diffuse-map="grass2_1_2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Grass 2x2">
+            <mesh file="tile2_2.3ds">
+                <texture name="Grass 2x2 var1" diffuse-map="grass2_2_1.jpg"/>
+                <texture name="Grass 2x2 var2" diffuse-map="grass2_2_2.jpg"/>
+                <texture name="Grass 2x1 var3" diffuse-map="grass2_2_3.jpg"/>
+                <texture name="Grass 2x1 var4" diffuse-map="grass2_2_4.jpg"/>
+                <texture name="Grass 2x1 var5" diffuse-map="grass2_2_5.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Grass 3x1">
+            <mesh file="tile3_1.3ds">
+                <texture name="Grass 3x1 var1" diffuse-map="grass3_1_1.jpg"/>
+                <texture name="Grass 3x1 var2" diffuse-map="grass3_1_2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Grass 3x2">
+            <mesh file="tile3_2.3ds">
+                <texture name="Grass 3x2 var1" diffuse-map="grass3_2_1.jpg"/>
+                <texture name="Grass 3x2 var2" diffuse-map="grass3_2_2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Grass 3x3">
+            <mesh file="tile3_3.3ds">
+                <texture name="Grass 3x3 var1" diffuse-map="grass3_3_1.jpg"/>
+                <texture name="Grass 3x3 var2" diffuse-map="grass3_3_2.jpg"/>
+                <texture name="Grass 3x3 var3" diffuse-map="grass3_3_3.jpg"/>
+            </mesh>
+        </prop>
+    </prop-group>
+</library>

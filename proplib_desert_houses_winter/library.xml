@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Desert Houses Winter">
+    <prop-group name="default">
+        <prop name="SmHouse2">
+            <mesh file="smhouse2.3ds"/>
+        </prop>
+        <prop name="SmHouse3">
+            <mesh file="smhouse3.3ds"/>
+        </prop>
+    </prop-group>
+</library>

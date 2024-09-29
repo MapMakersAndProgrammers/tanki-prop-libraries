@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Fort Winter">
+    <prop-group name="default">
+        <prop name="Fort Wall">
+            <mesh file="wall.3ds">
+                <texture name="usual" diffuse-map="wall_1.jpg"/>
+                <texture name="burned" diffuse-map="wall_2.jpg"/>
+                <texture name="broken" diffuse-map="wall_3.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Fort Wall Short">
+            <mesh file="wall_short.3ds">
+                <texture name="usual" diffuse-map="short_1.jpg"/>
+                <texture name="anarchy" diffuse-map="short_2.jpg"/>
+                <texture name="Che" diffuse-map="short_3.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Fort Wall Corner In">
+            <mesh file="wall_cor_in.3ds"/>
+        </prop>
+        <prop name="Fort Wall Corner Out">
+            <mesh file="wall_cor_out.3ds"/>
+        </prop>
+        <prop name="Fort Wall End 1">
+            <mesh file="wall_end_1.3ds"/>
+        </prop>
+        <prop name="Fort Wall End 2">
+            <mesh file="wall_end_2.3ds"/>
+        </prop>
+        <prop name="Fort Wall broken 1">
+            <mesh file="wall_broken_1.3ds"/>
+        </prop>
+        <prop name="Fort Wall broken 2">
+            <mesh file="wall_broken_2.3ds"/>
+        </prop>
+        <prop name="Fort Wall b_rise">
+            <mesh file="wlb_rise.3ds"/>
+        </prop>
+        <prop name="Fort Wall Gate">
+            <mesh file="wall_gate.3ds"/>
+        </prop>
+        <prop name="Fort Tower Straight">
+            <mesh file="tower_str.3ds"/>
+        </prop>
+        <prop name="Fort Tower End">
+            <mesh file="tower_end.3ds"/>
+        </prop>
+        <prop name="Fort Tower Corner">
+            <mesh file="tower_corner.3ds"/>
+        </prop>
+        <prop name="Fort Tower Roof">
+            <mesh file="tower_roof.3ds"/>
+        </prop>
+    </prop-group>
+</library>

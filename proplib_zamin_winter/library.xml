@@ -1,0 +1,104 @@
+<library name="zamin Winter">	
+	<prop-group name="zamin">
+		<prop name="half">
+			<mesh file="half.3DS">
+					<texture name="khak" diffuse-map="half.jpg" />
+					<texture name="Snow" diffuse-map="half_s.jpg" />
+					<texture name="straw" diffuse-map="straw_half.jpg" />	
+			</mesh>
+		</prop>
+		<prop name="halfx1">
+			<mesh file="halfx1.3DS">
+					<texture name="khak" diffuse-map="halfx1.jpg" />	
+					<texture name="Snow" diffuse-map="halfx1_s.jpg" />
+					<texture name="straw" diffuse-map="straw_halfx1.jpg" />	
+					<texture name="khak Snow" diffuse-map="kahk_snow_halfx1.jpg" />
+			</mesh>
+		</prop>
+		<prop name="1x1">
+			<mesh file="1x1.3DS">
+					<texture name="khak" diffuse-map="khak1x1.jpg" />	
+					<texture name="straw" diffuse-map="straw_1x1.jpg" />
+					<texture name="straw 2" diffuse-map="straw_2.jpg" />	
+					<texture name="grass" diffuse-map="grass.jpg" />
+					<texture name="grass 1" diffuse-map="grass_1.jpg" />
+					<texture name="grass 2" diffuse-map="grass_2.jpg" />
+					<texture name="grass 3" diffuse-map="grass_3.jpg" />
+					<texture name="path" diffuse-map="path.jpg" />
+					<texture name="path 1" diffuse-map="path_1.jpg" />
+					<texture name="path 2" diffuse-map="path_2.jpg" />
+					<texture name="path 3" diffuse-map="path_3.jpg" />
+					<texture name="path 4" diffuse-map="path_4.jpg" />
+					<texture name="path 5" diffuse-map="path_5.jpg" />
+					<texture name="path 6" diffuse-map="path_6.jpg" />
+					<texture name="path 7" diffuse-map="path_7.jpg" />
+					<texture name="path 8" diffuse-map="path_8.jpg" />
+					<texture name="path 8 snow" diffuse-map="path_8_s.jpg" />
+					<texture name="path 8 snow 2" diffuse-map="path_8_s2.jpg" />
+					<texture name="path 9" diffuse-map="path_9.jpg" />
+					<texture name="path 9 snow" diffuse-map="path_9_s.jpg" />
+					<texture name="path 9 snow 2" diffuse-map="path_9_s2.jpg" />
+					<texture name="path 10" diffuse-map="path_10.jpg" />
+					<texture name="khak semi snow" diffuse-map="khak_semi_snow.jpg" />
+					<texture name="khak snow rotate" diffuse-map="kahk_semi_snow_rotate.jpg" />
+					<texture name="khak snow rotate 2" diffuse-map="kahk_semi_snow_rotate2.jpg" />
+					<texture name="khak snow rotate 3" diffuse-map="kahk_semi_snow_rotate3.jpg" />
+			</mesh>
+		</prop>
+		<prop name="2x2">
+			<mesh file="2x2.3DS">
+					<texture name="khak" diffuse-map="khak2x2.jpg" />
+					<texture name="grass" diffuse-map="grass2x2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="5x5">
+			<mesh file="5x5.3DS">
+					<texture name="fade" diffuse-map="fade.jpg" />
+					<texture name="fade turn" diffuse-map="fade_turn.jpg" />
+					<texture name="fade distant" diffuse-map="fade_distant.jpg" />	
+					<texture name="fade dpng" diffuse-map="fade_dpng.png" />	
+					<texture name="fade tpng" diffuse-map="fade_tpng.png" />	
+			</mesh>
+		</prop>
+		<prop name="taghBala">
+            <mesh file="taghBala.3DS">
+                <texture name="grass" diffuse-map="grass.jpg" />
+            </mesh>
+        </prop>
+		<prop name="half+">
+			<mesh file="half+.3DS">
+				<texture name="grass" diffuse-map="grass.jpg" />
+				<texture name="khak" diffuse-map="khak1x1.jpg" />
+				<texture name="khak snow" diffuse-map="kahk_snow_rotate.jpg" />
+				<texture name="khak snow rotate" diffuse-map="kahk_semi_snow_rotate.jpg" />
+				<texture name="khak snow rotate 2" diffuse-map="kahk_semi_snow_rotate2.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="elements">
+		<prop name="rabet">
+			<mesh file="rabet.3DS">	
+				<texture name="rabet" diffuse-map="rabet.jpg" />			
+			</mesh>
+		</prop>
+		<prop name="newnakhl">
+			<mesh file="newnakhl.3DS">
+				<texture name="newnakhl" diffuse-map="newnakhl.jpg" />
+			</mesh>
+		</prop>
+		<prop name="parche">
+			<mesh file="parche.3DS">	
+			</mesh>
+		</prop>
+		<prop name="yonje">
+			<mesh file="yonje.3DS">	
+				<texture name="yonje" diffuse-map="yonje.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="Sprites">
+		<prop name="Bush 2">
+			<sprite file="bush2.png" origin-y="0.95" scale="2.5"/>
+		</prop>
+	</prop-group>
+</library>

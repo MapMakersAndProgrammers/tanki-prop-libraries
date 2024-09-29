@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Concrete Walls">
+    <prop-group name="default">
+        <prop name="Wall 3way">
+            <mesh file="wall_3w.3ds">
+                <texture name="wall 3w" diffuse-map="wall_3w.jpg"/>
+                <texture name="wall 3w grass" diffuse-map="wall_3w_g.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Wall Corner">
+            <mesh file="wall_cr.3ds">
+                <texture name="wall cr" diffuse-map="wall_cr.jpg"/>
+                <texture name="wall cr grass" diffuse-map="wall_cr_g.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Wall Straight">
+            <mesh file="wall_st.3ds">
+                <texture name="wall st" diffuse-map="wall_st.jpg"/>
+                <texture name="wall st grass" diffuse-map="wall_st_g.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Wall End 1">
+            <mesh file="wall_e1.3ds">
+                <texture name="wall e1" diffuse-map="wall_e1.jpg"/>
+                <texture name="wall e1 grass" diffuse-map="wall_e1_g.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Wall End 2">
+            <mesh file="wall_e2.3ds">
+                <texture name="wall e2" diffuse-map="wall_e2.jpg"/>
+                <texture name="wall e2 grass" diffuse-map="wall_e2_g.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Wall End 3">
+            <mesh file="wall_e3.3ds">
+                <texture name="wall e3" diffuse-map="wall_e3.jpg"/>
+                <texture name="wall e3 grass" diffuse-map="wall_e3_g.jpg"/>
+            </mesh>
+        </prop>
+    </prop-group>
+</library>

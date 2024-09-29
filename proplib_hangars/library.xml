@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Hangars">
+    <prop-group name="default">
+        <prop name="Hangar 1">
+            <mesh file="hang_1.3ds"/>
+        </prop>
+        <prop name="Hangar 2">
+            <mesh file="hang_2.3ds"/>
+        </prop>
+        <prop name="Hangar 3">
+            <mesh file="hang_3.3ds"/>
+        </prop>
+    </prop-group>
+</library>

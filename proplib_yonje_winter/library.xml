@@ -1,0 +1,44 @@
+<library name="yonje Winter">	
+	<prop-group name="yonje">
+		<prop name="Door">
+			<mesh file="door.3DS">
+				<texture name="North" diffuse-map="door.jpg" />
+			</mesh>
+		</prop>
+		<prop name="window">
+			<mesh file="window.3DS">
+				<texture name="North" diffuse-map="window.jpg" />
+			</mesh>
+		</prop>
+		<prop name="wall">
+			<mesh file="wall.3DS">
+				<texture name="North" diffuse-map="wall.jpg" />
+			</mesh>
+		</prop>
+		<prop name="outWd">
+			<mesh file="outWd.3DS">
+				<texture name="NorthEast" diffuse-map="outwd.jpg" />
+			</mesh>
+		</prop>
+		<prop name="out">
+			<mesh file="out.3DS">
+				<texture name="NorthEast" diffuse-map="corner.jpg" />
+			</mesh>
+		</prop>
+		<prop name="in">
+			<mesh file="in.3DS">
+				<texture name="NorthEast" diffuse-map="corner.jpg" />
+			</mesh>
+		</prop>
+		<prop name="End">
+			<mesh file="end.3DS">
+				<texture name="East" diffuse-map="end.jpg" />
+			</mesh>
+		</prop>
+		<prop name="corner">
+			<mesh file="corner.3DS">
+				<texture name="NorthEast" diffuse-map="corner.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+</library>

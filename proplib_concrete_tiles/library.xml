@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Concrete Tiles">
+    <prop-group name="default">
+        <prop name="concrete 1x1">
+            <mesh file="tile_01.3ds">
+                <texture name="Concrete 1" diffuse-map="concrete_1.jpg"/>
+                <texture name="Concrete 2" diffuse-map="concrete_2.jpg"/>
+                <texture name="Concrete 3" diffuse-map="concrete_3.jpg"/>
+                <texture name="Concrete 4" diffuse-map="concrete_4.jpg"/>
+                <texture name="PtC trans 1" diffuse-map="pc_trans_1.jpg"/>
+                <texture name="PtC trans 2" diffuse-map="pc_trans_2.jpg"/>
+                <texture name="PtC trans 3" diffuse-map="pc_trans_3.jpg"/>
+                <texture name="PtC Corner 1" diffuse-map="pc_corner_1.jpg"/>
+                <texture name="PtC Corner 2" diffuse-map="pc_corner_2.jpg"/>
+                <texture name="PtC Inner Corner 1" diffuse-map="pc_incor_1.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Concrete 2x1">
+            <mesh file="tile2_1.3ds">
+                <texture name="Concrete 2x1 var1" diffuse-map="grass2_1_1.jpg"/>
+                <texture name="Concrete 2x1 var2" diffuse-map="grass2_1_2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Concrete 2x2">
+            <mesh file="tile2_2.3ds">
+                <texture name="PtC Turn" diffuse-map="pc_turn.jpg"/>
+                <texture name="PtC Turn 2" diffuse-map="pc_turn_2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Concrete 3x1">
+            <mesh file="tile3_1.3ds">
+                <texture name="concrete road clean" diffuse-map="concrete_road_0.jpg"/>
+                <texture name="concrete road" diffuse-map="concrete_road.jpg"/>
+                <texture name="concrete road end" diffuse-map="concrete_road_end.jpg"/>
+                <texture name="concrete road zebra" diffuse-map="concrete_road_zebra.jpg"/>
+                <texture name="concrete road end zebra" diffuse-map="concrete_road_end_zebra.jpg"/>
+                <texture name="concrete road detail 1" diffuse-map="concrete_road_det_1.jpg"/>
+                <texture name="concrete road detail 2" diffuse-map="concrete_road_det_2.jpg"/>
+                <texture name="concrete road detail 3" diffuse-map="concrete_road_det_3.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Concrete 3x2">
+            <mesh file="tile3_2.3ds">
+                <texture name="Concrete 3x2 var1" diffuse-map="grass3_2_1.jpg"/>
+                <texture name="Concrete 3x2 var2" diffuse-map="grass3_2_2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Concrete 3x3">
+            <mesh file="tile3_3.3ds">
+                <texture name="Concrete 3-turn" diffuse-map="pc_3turn.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Pave 1x1">
+            <mesh file="tile_01.3ds">
+                <texture name="Pave 1" diffuse-map="pave_1.jpg"/>
+                <texture name="Pave 2" diffuse-map="pave_2.jpg"/>
+                <texture name="Pave 3" diffuse-map="pave_3.jpg"/>
+                <texture name="Pave 4" diffuse-map="pave_4.jpg"/>
+                <texture name="PtG trans 1" diffuse-map="pg_trans_1.jpg"/>
+                <texture name="PtG trans 2" diffuse-map="pg_trans_2.jpg"/>
+                <texture name="PtG trans 3" diffuse-map="pg_trans_3.jpg"/>
+                <texture name="PtG Corner 1" diffuse-map="pg_corner_1.jpg"/>
+                <texture name="PtG Corner 2" diffuse-map="pg_corner_2.jpg"/>
+                <texture name="PtG Inner Corner 1" diffuse-map="pg_incor_1.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Flip Pave">
+            <mesh file="fliptile.3ds">
+                <texture name="Fliptile" diffuse-map="fliptile.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Pave 2x1">
+            <mesh file="tile2_1.3ds">
+                <texture name="Pave 2x1 var3" diffuse-map="pavement_2x1_1.jpg"/>
+                <texture name="Pave 2x1 var4" diffuse-map="pavement_2x1_2.jpg"/>
+                <texture name="Pave 2x1 var1" diffuse-map="pavement_2x1_3.jpg"/>
+                <texture name="Pave 2x1 var2" diffuse-map="pavement_2x1_4.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Pave 2x2">
+            <mesh file="tile2_2.3ds">
+                <texture name="Pave 2x2 var1" diffuse-map="pavement_2x2_1.jpg"/>
+                <texture name="Pave 2x2 var2" diffuse-map="pavement_2x2_2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Pave 3x1">
+            <mesh file="tile3_1.3ds">
+                <texture name="Pave 3x1 var1" diffuse-map="pavement_3x1_1.jpg"/>
+                <texture name="Pave 3x1 var2" diffuse-map="pavement_3x1_2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Pave 3x2">
+            <mesh file="tile3_2.3ds">
+                <texture name="Pave 3x2 var1" diffuse-map="pavement_3x2_1.jpg"/>
+                <texture name="Pave 3x2 var2" diffuse-map="pavement_3x2_2.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Pave 3x3">
+            <mesh file="tile3_3.3ds">
+                <texture name="Pave 3x3 var1" diffuse-map="pavement_3x3_1.jpg"/>
+                <texture name="Pave 3x3 var2" diffuse-map="pavement_3x3_2.jpg"/>
+            </mesh>
+        </prop>
+    </prop-group>
+</library>
