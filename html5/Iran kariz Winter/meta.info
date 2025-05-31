@@ -1,0 +1,137 @@
+[ {
+  "name" : "abrah.3DS",
+  "size" : 20857,
+  "md5" : "a0e4d16318bf456c3c1b84fa227db077"
+}, {
+  "name" : "charchub-astc.ktx",
+  "size" : 349704,
+  "md5" : "f5e062b3bfffe1ce40582dc4a349a2b5"
+}, {
+  "name" : "charchub-etc1.ktx",
+  "size" : 699200,
+  "md5" : "4a3c2f8a646e4c289dfda18b898e44a5"
+}, {
+  "name" : "charchub.3DS",
+  "size" : 7976,
+  "md5" : "2eebaf6a858e00626b5e33668cbc9948"
+}, {
+  "name" : "charchub.webp",
+  "size" : 420778,
+  "md5" : "5119b97715ae06221383655ee19ca3d3"
+}, {
+  "name" : "cheragh.3DS",
+  "size" : 6707,
+  "md5" : "79732a3b6ecde57b26ae7bfca8c4e20e"
+}, {
+  "name" : "dar.3DS",
+  "size" : 13566,
+  "md5" : "60c951b18d162b6b504772c9fb688c61"
+}, {
+  "name" : "darW-astc.ktx",
+  "size" : 349704,
+  "md5" : "7b6e63949dbf61698ab6d7047908705e"
+}, {
+  "name" : "darW-etc1.ktx",
+  "size" : 699200,
+  "md5" : "307a58ae0a65567dbd23df548406bc93"
+}, {
+  "name" : "darW.webp",
+  "size" : 443792,
+  "md5" : "8b0b2fcaa8cc2dae26b0ebc5fd2cf967"
+}, {
+  "name" : "dargah.3DS",
+  "size" : 15825,
+  "md5" : "4a7ff13946c50d2a423e1c11119fe8cd"
+}, {
+  "name" : "dargahE-astc.ktx",
+  "size" : 349704,
+  "md5" : "4882b502424f77a62bccbd24ea73d3f6"
+}, {
+  "name" : "dargahE-etc1.ktx",
+  "size" : 699200,
+  "md5" : "7d404deae2ddf0bf1ed9618cd3bb9186"
+}, {
+  "name" : "dargahE.webp",
+  "size" : 469942,
+  "md5" : "63144757dea2207f9738cb9db9e3fc44"
+}, {
+  "name" : "kariz-astc.ktx",
+  "size" : 174952,
+  "md5" : "833ae136d7eabb87bbd37b63071929b5"
+}, {
+  "name" : "kariz-etc1.ktx",
+  "size" : 349680,
+  "md5" : "9a590279b23b30347e0e38de0cb0522b"
+}, {
+  "name" : "kariz.3DS",
+  "size" : 5715,
+  "md5" : "ce009b2bc765951cdfe0b27d9efb6894"
+}, {
+  "name" : "kariz.webp",
+  "size" : 221202,
+  "md5" : "2b9f9e352f87496f62eb0ab29043f084"
+}, {
+  "name" : "kariz_1-astc.ktx",
+  "size" : 174952,
+  "md5" : "833ae136d7eabb87bbd37b63071929b5"
+}, {
+  "name" : "kariz_1-etc1.ktx",
+  "size" : 349680,
+  "md5" : "9a590279b23b30347e0e38de0cb0522b"
+}, {
+  "name" : "kariz_1.webp",
+  "size" : 221202,
+  "md5" : "2b9f9e352f87496f62eb0ab29043f084"
+}, {
+  "name" : "library.json",
+  "size" : 1251,
+  "md5" : "39311bf69a66fcafcadd89a8bcdcdf5a"
+}, {
+  "name" : "multi-astc.ktx",
+  "size" : 349704,
+  "md5" : "76a418a0f665ad919cd1685f38d04d79"
+}, {
+  "name" : "multi-etc1.ktx",
+  "size" : 699200,
+  "md5" : "0f3f3ad3f785f129f6678160e3385234"
+}, {
+  "name" : "multi.webp",
+  "size" : 432736,
+  "md5" : "cece5eb9fc573c0043fdeef73f5e475e"
+}, {
+  "name" : "saraziri.3DS",
+  "size" : 5721,
+  "md5" : "69895f47c03c2d3196f5acdd6630aadd"
+}, {
+  "name" : "turn-astc.ktx",
+  "size" : 174952,
+  "md5" : "201761344a8add8ef06c7e37cb88c03e"
+}, {
+  "name" : "turn-etc1.ktx",
+  "size" : 349680,
+  "md5" : "e1c9ffb3ba06193edbc5daaa19b0b272"
+}, {
+  "name" : "turn.3DS",
+  "size" : 8074,
+  "md5" : "440af05991d243fdceeaa04bbc475240"
+}, {
+  "name" : "turn.webp",
+  "size" : 224684,
+  "md5" : "3d70cbd1884e2e5e76216565968ef9c3"
+}, {
+  "name" : "turn3-astc.ktx",
+  "size" : 349704,
+  "md5" : "7e38391be81948070f57c801d5b1bb71"
+}, {
+  "name" : "turn3-etc1.ktx",
+  "size" : 699200,
+  "md5" : "cc0e70dbf9264486626dbcb3b44a5163"
+}, {
+  "name" : "turn3.3DS",
+  "size" : 13015,
+  "md5" : "699e3a35c3835b530c6e7a3d4357864e"
+}, {
+  "name" : "turn3.webp",
+  "size" : 396812,
+  "md5" : "1b94feb3c90e4e54e028ecf705e31487"
+} ]
