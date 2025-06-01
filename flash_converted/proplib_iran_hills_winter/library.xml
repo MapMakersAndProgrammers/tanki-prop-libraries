@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<library name="Iran hills Winter">
+	<prop-group name="default">
+		<prop name="Land09">
+			<mesh file="land09.3ds">
+				<texture name="land1" diffuse-map="land1.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Land01">
+			<mesh file="land01.3ds">
+				<texture name="land02" diffuse-map="land02.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Land02">
+			<mesh file="land02.3ds">
+				<texture name="land02" diffuse-map="land02.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Land03">
+			<mesh file="land03.3ds">
+				<texture name="land02" diffuse-map="land02.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Land04">
+			<mesh file="land04.3ds">
+				<texture name="land02" diffuse-map="land02.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Land06">
+			<mesh file="land06.3ds">
+				<texture name="land1" diffuse-map="land1.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Land07">
+			<mesh file="land07.3ds">
+				<texture name="land1" diffuse-map="land1.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Land08">
+			<mesh file="land08.3ds">
+				<texture name="land1" diffuse-map="land1.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Line">
+			<mesh file="line.3ds">
+				<texture name="land03" diffuse-map="land03.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Land05">
+			<mesh file="land05.3ds">
+				<texture name="land03" diffuse-map="land03.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Land10">
+			<mesh file="land22.3ds">
+				<texture name="land03" diffuse-map="land03.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Land11">
+			<mesh file="land33.3ds">
+				<texture name="land03" diffuse-map="land03.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+</library>
