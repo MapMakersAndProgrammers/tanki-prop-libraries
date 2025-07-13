@@ -1,5 +1,5 @@
 # tanki-prop-libraries
-Proplibs for Tanki Online intended to be used with map making and viewing tools like Alternativa Editor and io_scene_a3d.
+Proplibs for Tanki Online intended to be used with map making and viewing tools like [Alternativa Editor](https://github.com/MapMakersAndProgrammers/alternativa-tools/tree/main/alternativaEditor1.4.10) and [io_scene_a3d](https://github.com/MapMakersAndProgrammers/io_scene_a3d).
 
 ## Legal
 This repo is made entirely of ripped assets (with some assets converted to other formats and uploaded in separate folders for ease of use) from multiple versions of Tanki Online, these assets are not free to use and are uploaded here for archival purposes and easy access to produce fan-made content.
