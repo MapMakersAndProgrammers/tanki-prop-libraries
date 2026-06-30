@@ -40,7 +40,7 @@
         <prop name="Bridge 7">
             <mesh file="brid_7.3ds">
                 <texture name="Bridge6 1" diffuse-map="brid_7.jpg"/>
-                <texture name="Bridge6 2" diffuse-map="brid_71.jpg"/>
+                <texture name="Bridge6 3" diffuse-map="brid_71.jpg"/>
                 <texture name="Bridge6 2" diffuse-map="brid_72.jpg"/>
             </mesh>
         </prop>
